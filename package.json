@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "mdx-deck deck.mdx"
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
   },
   "keywords": [],
-  "author": "",
+  "author": "Benjamin Lannon",
   "license": "MIT",
   "dependencies": {
     "mdx-deck": "^4.1.1"
